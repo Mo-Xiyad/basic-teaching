@@ -27,3 +27,30 @@ If you're new to coding, start with the [Introduction to TypeScript](README.md) 
    ```bash
    git clone https://github.com/Mo-Xiyad/basic-teaching.git
    ```
+
+## Running the Code
+
+To run the TypeScript code examples in this repo, follow these steps:
+
+- **Install TypeScript:** If you haven't already installed TypeScript globally on your system, you can do so using npm (Node Package Manager). Open your terminal and run
+
+  ```bash
+  npm install -g typescript
+  ```
+
+- **Compile TypeScript to JavaScript:** In the functions folder, run the following command to transpile the functions.ts file to JavaScript:
+
+        ```bash
+        tsc functions.ts
+        ```
+
+  This will create a functions.js file in the same directory.
+
+````
+
+- **Run the JavaScript File:** Finally, run the JavaScript file using Node.js:
+
+  ```bash
+  node functions.js
+  ```
+````
