@@ -25,4 +25,5 @@ If you're new to coding, start with the [Introduction to TypeScript](README.md) 
 1. **Clone the Repository:** To get started, clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/mo-xiyad/basic-teaching.git
+   git clone https://github.com/Mo-Xiyad/basic-teaching.git
+   ```
