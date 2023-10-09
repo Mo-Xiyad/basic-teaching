@@ -33,9 +33,6 @@ class Rectangle {
     return 2 * (this.width + this.height);
   }
   isSquare(): boolean {
-    if (this.width !== this.height) {
-      return false;
-    }
-    return true;
+    return this.width === this.height;
   }
 }
