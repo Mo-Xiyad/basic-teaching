@@ -15,7 +15,7 @@ Remember to use the constructor method in the class to initialize properties.
 Use TypeScript type annotations to ensure type safety.
 */
 
-class Rectangle {
+export class Rectangle {
   private width: number;
   private height: number;
 
